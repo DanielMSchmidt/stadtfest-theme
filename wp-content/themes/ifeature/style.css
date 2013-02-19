@@ -16,6 +16,11 @@ License URI: http://www.opensource.org/licenses/gpl-license.php GPL v2.0 (or lat
 body {
 	color:#555;
 }
+
+body .entry-meta, body .postformats, body #header, body .edit-link, body #footer-widgets-wrapper, body #credit{
+	display: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 15px;
   font-weight: 400;
@@ -30,20 +35,20 @@ table .label {
 tr {
   border-bottom: 1px solid #ccc;
 }
-td { 
+td {
 	padding: 5px;
 }
 dt {
   font-weight: bold;
   margin-top: 5px;
   margin-bottom: 5px;
-  margin-left: 26px; 
+  margin-left: 26px;
 }
 dd {
   margin-bottom: 15px;
   margin-left: 26px;
 }
-ul, ol { 
+ul, ol {
 	margin: 0 0 10px 0;
 }
 ol, ul {
@@ -159,7 +164,7 @@ header#cc-header .register {
 }
 
 header#cc-header .blog_description {
-  float: right; 
+  float: right;
 }
 
 header#cc-header p {
@@ -178,7 +183,7 @@ header #search #searchform {
 /********************************************************************************************************************/
 
 #navigation {
- 	margin-bottom: 30px; 
+ 	margin-bottom: 30px;
 }
 .main-navigation.navbar {
 	margin-bottom: 0;
@@ -195,7 +200,7 @@ header #search #searchform {
   background: linear-gradient(to bottom,  #b6b6b6 0%,#a4a4a4 1%,#919191 51%,#858585 52%,#717171 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a4a4a4', endColorstr='#717171',GradientType=0 );
 	box-shadow: none;
-  -webkit-border-radius: 3px;  
+  -webkit-border-radius: 3px;
   border-radius: 3px;
   border: 1px solid;
   border-color: #888 #666 #666 #666;
@@ -378,7 +383,7 @@ article.post, article.page, article.attachment {
 	padding: 0;
   background: #fdfdfd;
   border: 1px solid #eaeaea;
-  -webkit-border-radius: 3px;  
+  -webkit-border-radius: 3px;
   border-radius: 3px;
   overflow: hidden;
   -webkit-box-shadow:  0px 1px 0px 0px #adadad;
@@ -423,10 +428,10 @@ article {
   background: linear-gradient(to bottom,  #6fb7d6 0%,#4fadd8 1%,#4fadd8 50%,#399cca 51%,#3599c7 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4fadd8', endColorstr='#3599c7',GradientType=0 );
   border: 1px solid #2b7a9f;
-  -webkit-border-radius: 3px;  
+  -webkit-border-radius: 3px;
   border-radius: 3px;
 }
-blockquote { 
+blockquote {
 	background-color: #ccc;
 	margin: 10px;
 	padding: 3px;
@@ -441,7 +446,7 @@ blockquote cite:before {
   content: ' ̶ ';
   position: relative;
   top: -2px;
-  margin: 0 5px; 
+  margin: 0 5px;
 }
 .page-links {
   clear: both;
@@ -451,7 +456,7 @@ blockquote cite:before {
   padding: 10px 20px 5px 20px;
   background: #fdfdfd;
   border: 1px solid #eaeaea;
-  -webkit-border-radius: 3px;  
+  -webkit-border-radius: 3px;
   border-radius: 3px;
   overflow: hidden;
   -webkit-box-shadow:  0px 1px 0px 0px #adadad;
@@ -661,7 +666,7 @@ footer.entry-meta {
   padding: 20px;
   background: #fdfdfd;
   border: 1px solid #eaeaea;
-  -webkit-border-radius: 3px;  
+  -webkit-border-radius: 3px;
   border-radius: 3px;
   overflow: hidden;
   -webkit-box-shadow:  0px 1px 0px 0px #adadad;
@@ -678,7 +683,7 @@ ol.commentlist {
 }
 ol.commentlist p {
   margin-left: 8px;
-  clear: left; 
+  clear: left;
 }
 ol.commentlist li.comment {
   padding: 10px;
@@ -756,7 +761,7 @@ ol.commentlist li.odd {
 #sidebar .widget-container {
   background: #fdfdfd;
   border: 1px solid #eaeaea;
-  -webkit-border-radius: 3px;  
+  -webkit-border-radius: 3px;
   border-radius: 3px;
   overflow: hidden;
   -webkit-box-shadow:  0px 1px 0px 0px #adadad;
@@ -780,7 +785,7 @@ ol.commentlist li.odd {
   background: linear-gradient(to bottom,  #b6b6b6 0%,#a4a4a4 2%,#717171 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a4a4a4', endColorstr='#717171',GradientType=0 );
   box-shadow: none;
-  -webkit-border-radius: 3px 3px 0 0;  
+  -webkit-border-radius: 3px 3px 0 0;
   border-radius: 3px 3px 0 0;
   border: 1px solid;
   border-color: #888 #666 #666 #666;
@@ -914,7 +919,7 @@ table#wp-calendar td {
 	padding: 20px;
   background: #fdfdfd;
   border: 1px solid #eaeaea;
-  -webkit-border-radius: 3px;  
+  -webkit-border-radius: 3px;
   border-radius: 3px;
   overflow: hidden;
   -webkit-box-shadow:  0px 1px 0px 0px #adadad;
@@ -950,7 +955,7 @@ h2.box-widget-title {
   padding: 20px;
   background: #fdfdfd;
   border: 1px solid #eaeaea;
-  -webkit-border-radius: 3px;  
+  -webkit-border-radius: 3px;
   border-radius: 3px;
   overflow: hidden;
   -webkit-box-shadow:  0px 1px 0px 0px #adadad;
@@ -982,7 +987,7 @@ h2.box-widget-title {
   padding: 20px;
   background: #fdfdfd;
   border: 1px solid #eaeaea;
-  -webkit-border-radius: 3px;  
+  -webkit-border-radius: 3px;
   border-radius: 3px;
   overflow: hidden;
   -webkit-box-shadow:  0px 1px 0px 0px #adadad;
@@ -996,7 +1001,7 @@ h2.box-widget-title {
 	padding-left: 75px;
 	margin-bottom: 0;
 }
-@media (max-width: 480px) { 
+@media (max-width: 480px) {
 	#twitter-bar #twitter-text img {
 		width: 30px;
 		height: 21px;
@@ -1039,7 +1044,7 @@ h2.box-widget-title {
 }
 /*==================================== PHONES ====================================================*/
 
-@media (max-width: 480px) { 
+@media (max-width: 480px) {
 	header#cc-header .span7 {
 		text-align: center;
 	}
