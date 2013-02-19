@@ -1,0 +1,946 @@
+# Copyright (C) 2012 the Catch Themes Team
+# This file is distributed under the  GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Catch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-01 21:58+0530\n"
+"PO-Revision-Date: 2013-02-01 21:58+0530\n"
+"Last-Translator: Sakin Shrestha <sakin@catchinternet.com>\n"
+"Language-Team:  <kurpachev@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: Russian\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_ex;_n;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "Error 404 - Page Not Found."
+msgstr "Ошибка 404 - Страница не найдена."
+
+#: ../404.php:14
+msgid "We&rsquo;re sorry! This page is not available."
+msgstr "Очень жаль! Эта страница недоступна."
+
+#: ../404.php:15
+msgid "This might be because:"
+msgstr "Это могло произойти, потому что:"
+
+#: ../404.php:16
+msgid "You have typed the web address incorrectly, or the page you were looking for may have been moved, updated or deleted."
+msgstr "Вы напечатали веб-адрес неправильно, или страница, которую Вы искали, возможно, была перемещена, обновлена или удалена."
+
+#: ../404.php:17
+msgid "Please try the following options instead:"
+msgstr "Пожалуйста, попробуйте следующие варианты вместо этого:"
+
+#: ../404.php:18
+msgid "Check for a mis-typed URL error, then press the refresh button on your browser or Use the search box at the Header."
+msgstr "Проверьте URL на наличие ошибок, затем нажмите кнопку \"Обновить\" своем браузере или используйте окно поиска в шапке."
+
+#: ../comments.php:21
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Это сообщение защищено паролем. Введите пароль, чтобы увидеть комментарии."
+
+#: ../comments.php:29
+#: ../content.php:30
+#: ../image.php:48
+msgid "No Comments"
+msgstr "Без комментариев"
+
+#: ../comments.php:29
+#: ../content.php:30
+#: ../image.php:48
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: ../comments.php:29
+#: ../content.php:30
+#: ../image.php:48
+msgid "% Comments"
+msgstr "% Комментари(я,ев)"
+
+#: ../comments.php:60
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: ../content.php:18
+#: ../content.php:25
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: ../content.php:28
+#: ../image.php:46
+msgid "By"
+msgstr "на"
+
+#: ../content.php:54
+#: ../search.php:39
+msgid "Previous"
+msgstr "Пред."
+
+#: ../content.php:55
+#: ../search.php:40
+msgid "Next"
+msgstr "След."
+
+#: ../content.php:64
+msgid "Not found"
+msgstr "Не найдено"
+
+#: ../content.php:65
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Извините, но для запрашиваемого архива, поиск не дал никаких результатов . Возможно, поиск поможет найти связанное сообщение."
+
+#: ../footer.php:17
+msgid "Copyright"
+msgstr "Права владения"
+
+#: ../footer.php:17
+msgid "All Rights Reserved."
+msgstr "Все права защищены."
+
+#: ../functions.php:92
+msgid "Primary Menu"
+msgstr "Основное меню."
+
+#: ../functions.php:122
+#: ../functions.php:124
+msgid "sidebar"
+msgstr "боковая панель"
+
+#: ../image.php:106
+msgid "Previous Image"
+msgstr "Пред. изображение"
+
+#: ../image.php:107
+msgid "Next Image"
+msgstr "След. изображение"
+
+#: ../search.php:17
+#, php-format
+msgid "Showing results for: <span class=\"img-title\">%s</span>"
+msgstr "Показ результатов для: <span class=\"img-title\">%s</span>"
+
+#: ../search.php:46
+#, php-format
+msgid "Your search <span> \"%s\" </span> did not match any documents"
+msgstr "По вашему поисковому запросу <span> \"%s\" </span> не найдено ни одного документа"
+
+#: ../search.php:48
+msgid "A few suggestions"
+msgstr "Несколько предложений"
+
+#: ../search.php:50
+msgid "Make sure all words are spelled correctly"
+msgstr "Удостоверьтесь, что все слова написаны правильно"
+
+#: ../search.php:51
+msgid "Try different keywords"
+msgstr "Попробуйте различные ключевые слова"
+
+#: ../search.php:52
+msgid "Try more general keywords"
+msgstr "Попробуйте более общие ключевые слова"
+
+#: ../searchform.php:17
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../functions/simplecatch_functions.php:100
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: ../functions/simplecatch_functions.php:432
+#, php-format
+msgid "%s in Facebook"
+msgstr "%s в Facebook"
+
+#: ../functions/simplecatch_functions.php:437
+#, php-format
+msgid "%s in Twitter"
+msgstr "%s в Twitter"
+
+#: ../functions/simplecatch_functions.php:442
+#, php-format
+msgid "%s in Google+"
+msgstr "%s в Google+"
+
+#: ../functions/simplecatch_functions.php:447
+#, php-format
+msgid "%s in Linkedin"
+msgstr "%s в Linkedin"
+
+#: ../functions/simplecatch_functions.php:452
+#, php-format
+msgid "%s in Pinterest"
+msgstr "%s в Pinterest"
+
+#: ../functions/simplecatch_functions.php:457
+#, php-format
+msgid "%s in YouTube"
+msgstr "%s в Youtube"
+
+#: ../functions/simplecatch_functions.php:462
+#, php-format
+msgid "%s in Vimeo"
+msgstr "%s в Vimeo"
+
+#: ../functions/simplecatch_functions.php:467
+#, php-format
+msgid "%s in Slideshare"
+msgstr "%s в Slideshare"
+
+#: ../functions/simplecatch_functions.php:472
+#, php-format
+msgid "%s in Foursquare"
+msgstr "%s в Foursquare"
+
+#: ../functions/simplecatch_functions.php:477
+#, php-format
+msgid "%s in Flickr"
+msgstr "%s в Flickr"
+
+#: ../functions/simplecatch_functions.php:482
+#, php-format
+msgid "%s in Tumblr"
+msgstr "%s в Tumblr"
+
+#: ../functions/simplecatch_functions.php:487
+#, php-format
+msgid "%s in deviantART"
+msgstr "%s в deviantART"
+
+#: ../functions/simplecatch_functions.php:492
+#, php-format
+msgid "%s in Dribbble"
+msgstr "%s в Dribbble"
+
+#: ../functions/simplecatch_functions.php:497
+#, php-format
+msgid "%s in MySpace"
+msgstr "%s в MySpace"
+
+#: ../functions/simplecatch_functions.php:502
+#, php-format
+msgid "%s in WordPress"
+msgstr "%s в WordPress"
+
+#: ../functions/simplecatch_functions.php:507
+#, php-format
+msgid "%s in RSS"
+msgstr "%s в RSS"
+
+#: ../functions/simplecatch_functions.php:512
+#, php-format
+msgid "%s in Delicious"
+msgstr "%s в Delicious"
+
+#: ../functions/simplecatch_functions.php:517
+#, php-format
+msgid "%s in Last.fm"
+msgstr "%s в Last.fm"
+
+#: ../functions/simplecatch_functions.php:670
+msgid "Powered By:"
+msgstr "Работает на:"
+
+#: ../functions/simplecatch_functions.php:670
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: ../functions/simplecatch_functions.php:670
+msgid "Powered By WordPress"
+msgstr "Работатет на WordPress"
+
+#: ../functions/simplecatch_functions.php:670
+#: ../functions/panel/theme_options.php:663
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../functions/simplecatch_functions.php:670
+msgid "Theme:"
+msgstr "Тема:"
+
+#: ../functions/simplecatch_functions.php:670
+#: ../functions/panel/theme_options.php:118
+msgid "http://catchthemes.com/"
+msgstr "http://catchthemes.com/"
+
+#: ../functions/simplecatch_functions.php:670
+msgid "Simple Catch"
+msgstr "Simple Catch"
+
+#: ../functions/simplecatch_functions.php:843
+msgid "Categories: "
+msgstr "Категории:"
+
+#: ../functions/simplecatch_functions.php:905
+msgid "Name"
+msgstr "Имя"
+
+#: ../functions/simplecatch_functions.php:905
+#: ../functions/simplecatch_functions.php:906
+msgid "( required )"
+msgstr "( обязательно )"
+
+#: ../functions/simplecatch_functions.php:906
+msgid "Email"
+msgstr "Email"
+
+#: ../functions/simplecatch_functions.php:907
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: ../functions/simplecatch_metabox.php:14
+#: ../functions/simplecatch_metabox.php:20
+msgid "Select Sidebar layout"
+msgstr "Выберите разметку страницы"
+
+#: ../functions/simplecatch_metabox.php:33
+msgid "Default Layout Set in"
+msgstr "По умолчанию, установлено в разделе"
+
+#: ../functions/simplecatch_metabox.php:33
+#: ../functions/panel/theme_options.php:143
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: ../functions/simplecatch_metabox.php:39
+msgid "No sidebar"
+msgstr "Без панелей"
+
+#: ../functions/simplecatch_metabox.php:45
+msgid "Left sidebar"
+msgstr "Боковая панель слева"
+
+#: ../functions/simplecatch_metabox.php:51
+msgid "Right sidebar"
+msgstr "Боковая панель справа"
+
+#: ../functions/widgets.php:18
+#, fuzzy
+msgid "Displays Custom Tag Cloud designed for Simple Catch Theme."
+msgstr "Отображается пользовательское облако меток"
+
+#: ../functions/widgets.php:19
+#, fuzzy
+msgid "Simple Catch Tag Clouds"
+msgstr "Simple Catch"
+
+#: ../functions/widgets.php:101
+msgid "Displays Social Icons added from Theme Options Panel."
+msgstr ""
+
+#: ../functions/widgets.php:102
+#, fuzzy
+msgid "Simple Catch Social Icons"
+msgstr "Simple Catch"
+
+#: ../functions/panel/theme_options.php:39
+#: ../functions/panel/theme_options.php:40
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: ../functions/panel/theme_options.php:101
+#, fuzzy
+msgid "Options Saved"
+msgstr "Настройки сохранены."
+
+#: ../functions/panel/theme_options.php:108
+msgid "http://facebook.com/catchthemes"
+msgstr "http://facebook.com/catchthemes"
+
+#: ../functions/panel/theme_options.php:110
+msgid "https://twitter.com/catchthemes"
+msgstr "https://twitter.com/catchthemes"
+
+#: ../functions/panel/theme_options.php:116
+#, fuzzy
+msgid "Theme Options By"
+msgstr "Настройки темы"
+
+#: ../functions/panel/theme_options.php:118
+#: ../functions/panel/theme_options.php:119
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#: ../functions/panel/theme_options.php:124
+#, fuzzy
+msgid "http://catchthemes.com/themes/simple-catch-pro/"
+msgstr "http://catchthemes.com/themes/simple-catch-pro"
+
+#: ../functions/panel/theme_options.php:124
+msgid "Upgrade to Simple Catch Pro"
+msgstr "Обновите до Simple Catch Pro"
+
+#: ../functions/panel/theme_options.php:129
+#, fuzzy
+msgid "http://catchthemes.com/support-forum/forum/simple-catch-public/"
+msgstr "http://catchthemes.com/themes/simple-catch-pro"
+
+#: ../functions/panel/theme_options.php:129
+msgid "Support Forum"
+msgstr ""
+
+#: ../functions/panel/theme_options.php:130
+#, fuzzy
+msgid "http://catchthemes.com/theme-instructions/simple-catch/"
+msgstr "http://catchthemes.com/themes/simple-catch-pro"
+
+#: ../functions/panel/theme_options.php:130
+#, fuzzy
+msgid "Theme Instruction"
+msgstr "Настройки темы"
+
+#: ../functions/panel/theme_options.php:131
+#, fuzzy
+msgid "https://www.facebook.com/catchthemes/"
+msgstr "http://facebook.com/catchthemes"
+
+#: ../functions/panel/theme_options.php:131
+#, fuzzy
+msgid "Like Catch Themes on Facebook"
+msgstr "Catch Themes Team"
+
+#: ../functions/panel/theme_options.php:131
+#: ../functions/panel/theme_options.php:592
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../functions/panel/theme_options.php:132
+#, fuzzy
+msgid "https://twitter.com/catchthemes/"
+msgstr "https://twitter.com/catchthemes"
+
+#: ../functions/panel/theme_options.php:132
+#, fuzzy
+msgid "Follow Catch Themes on Twitter"
+msgstr "Catch Themes Team"
+
+#: ../functions/panel/theme_options.php:132
+#: ../functions/panel/theme_options.php:597
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../functions/panel/theme_options.php:133
+msgid "http://wordpress.org/support/view/theme-reviews/simple-catch"
+msgstr ""
+
+#: ../functions/panel/theme_options.php:133
+#, fuzzy
+msgid "Rate us 5 Star on WordPress"
+msgstr "%s в WordPress"
+
+#: ../functions/panel/theme_options.php:133
+msgid "5 Star Rating"
+msgstr ""
+
+#: ../functions/panel/theme_options.php:142
+msgid "Design Settings"
+msgstr "Настройки дизайна"
+
+#: ../functions/panel/theme_options.php:144
+#, fuzzy
+msgid "Featured Post Slider"
+msgstr "Слайдер"
+
+#: ../functions/panel/theme_options.php:145
+msgid "Social Links"
+msgstr "Социальные Сети"
+
+#: ../functions/panel/theme_options.php:146
+msgid "Webmaster Tools"
+msgstr "Веб-мастер"
+
+#: ../functions/panel/theme_options.php:152
+msgid "Logo Options"
+msgstr "Настройки логотипа"
+
+#: ../functions/panel/theme_options.php:157
+msgid "Header logo url:"
+msgstr "URL логотипа шапки:"
+
+#: ../functions/panel/theme_options.php:161
+#, fuzzy
+msgid "Change Logo"
+msgstr "Изменить логотип шапки"
+
+#: ../functions/panel/theme_options.php:164
+msgid "Upload Logo"
+msgstr ""
+
+#: ../functions/panel/theme_options.php:171
+msgid "Preview:"
+msgstr "Предпросмотр:"
+
+#: ../functions/panel/theme_options.php:177
+msgid "No Header Image Found. Upload Header Image."
+msgstr ""
+
+#: ../functions/panel/theme_options.php:184
+#, fuzzy
+msgid "Disable Site Title?"
+msgstr "Отключить название сайта:"
+
+#: ../functions/panel/theme_options.php:186
+#: ../functions/panel/theme_options.php:191
+#: ../functions/panel/theme_options.php:219
+msgid "Check to Disable."
+msgstr ""
+
+#: ../functions/panel/theme_options.php:189
+#, fuzzy
+msgid "Disable Site Description?"
+msgstr "Отключить слоган сайта:"
+
+#: ../functions/panel/theme_options.php:194
+msgid "Footer logo url: "
+msgstr "URL логотипа нижнего колонтитула:"
+
+#: ../functions/panel/theme_options.php:201
+msgid "Change Footer Logo"
+msgstr "Изменить логотип нижнего колонтитула"
+
+#: ../functions/panel/theme_options.php:205
+#: ../functions/panel/theme_options.php:246
+msgid "Preview: "
+msgstr "Предпросмотр:"
+
+#: ../functions/panel/theme_options.php:217
+#, fuzzy
+msgid "Disable Footer Logo?"
+msgstr "Отключить логотип нижнего колонтитула:"
+
+#: ../functions/panel/theme_options.php:223
+#: ../functions/panel/theme_options.php:260
+#: ../functions/panel/theme_options.php:354
+#: ../functions/panel/theme_options.php:378
+#: ../functions/panel/theme_options.php:406
+#: ../functions/panel/theme_options.php:443
+#: ../functions/panel/theme_options.php:464
+#: ../functions/panel/theme_options.php:484
+#: ../functions/panel/theme_options.php:500
+#: ../functions/panel/theme_options.php:531
+#: ../functions/panel/theme_options.php:582
+#: ../functions/panel/theme_options.php:683
+#: ../functions/panel/theme_options.php:712
+#: ../functions/panel/theme_options.php:742
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../functions/panel/theme_options.php:228
+msgid "Fav Icon Options"
+msgstr "Настройки иконки сайта"
+
+#: ../functions/panel/theme_options.php:233
+#, fuzzy
+msgid "Favicon URL:"
+msgstr "URL иконки сайта:"
+
+#: ../functions/panel/theme_options.php:236
+#, fuzzy
+msgid "Change Favicon"
+msgstr "Изменить иконку"
+
+#: ../functions/panel/theme_options.php:239
+#, fuzzy
+msgid "Upload Favicon"
+msgstr "Отключить иконку:"
+
+#: ../functions/panel/theme_options.php:252
+msgid "No Favicon Found. Upload Favicon."
+msgstr ""
+
+#: ../functions/panel/theme_options.php:265
+msgid "Content Background"
+msgstr "Фон содержимого страницы"
+
+#: ../functions/panel/theme_options.php:267
+msgid "Need to replace default background?"
+msgstr "Необходимо заменить фон по умолчанию?"
+
+#: ../functions/panel/theme_options.php:267
+#, php-format
+msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+msgstr "<a class=\"button\" href=\"%s\">Нажмите здесь</a>"
+
+#: ../functions/panel/theme_options.php:273
+msgid "Content Color Options"
+msgstr "Параметры цветов содержимого страницы"
+
+#: ../functions/panel/theme_options.php:280
+msgid "Heading Color:"
+msgstr "Цвет заголовков:"
+
+#: ../functions/panel/theme_options.php:291
+msgid "Meta Description Color:"
+msgstr "Цвет мета-описаний:"
+
+#: ../functions/panel/theme_options.php:302
+msgid "Text Color:"
+msgstr "Цвет текста:"
+
+#: ../functions/panel/theme_options.php:313
+msgid "Link Color:"
+msgstr "Цвет ссылок:"
+
+#: ../functions/panel/theme_options.php:324
+msgid "Sidebar Widget Heading Color:"
+msgstr "Цвет заголовков виджетов боковой панели:"
+
+#: ../functions/panel/theme_options.php:335
+msgid "Sidebar Widget Text Color:"
+msgstr "Цвет текста виджетов боковой панели:"
+
+#: ../functions/panel/theme_options.php:345
+msgid "Reset Color:"
+msgstr "Сбросить цвета:"
+
+#: ../functions/panel/theme_options.php:359
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: ../functions/panel/theme_options.php:364
+msgid "Enter your custom CSS styles."
+msgstr "Добавьте ваши CSS стили."
+
+#: ../functions/panel/theme_options.php:371
+msgid "CSS Tutorial from W3Schools."
+msgstr "CSS уроки от W3Schools."
+
+#: ../functions/panel/theme_options.php:373
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr "http://www.w3schools.com/css/default.asp"
+
+#: ../functions/panel/theme_options.php:373
+msgid "CSS Tutorial"
+msgstr "CSS Урок"
+
+#: ../functions/panel/theme_options.php:373
+msgid "Click Here to Read"
+msgstr "Нажмите здесь, чтобы прочитать"
+
+#: ../functions/panel/theme_options.php:383
+#: ../functions/panel/theme_options.php:388
+msgid "Default Layout"
+msgstr "Разметка страницы по-умолчанию"
+
+#: ../functions/panel/theme_options.php:392
+msgid "No Sidebar, One Column"
+msgstr "Одна колонка"
+
+#: ../functions/panel/theme_options.php:396
+msgid "Content on Right"
+msgstr "Содержимое справа"
+
+#: ../functions/panel/theme_options.php:400
+msgid "Content on Left"
+msgstr "Содержимое слева"
+
+#: ../functions/panel/theme_options.php:414
+msgid "Homepage / Frontpage Category Setting"
+msgstr "Настройка категорий Главной / Домашней страниц"
+
+#: ../functions/panel/theme_options.php:420
+msgid "Front page posts categories:"
+msgstr "Категории на Главной странице:"
+
+#: ../functions/panel/theme_options.php:422
+msgid "Only posts that belong to the categories selected here will be displayed on the front page."
+msgstr "Только те сообщения, которые относятся к категориям, выбранным здесь будут отображаться на Главной странице."
+
+#: ../functions/panel/theme_options.php:427
+msgid "--Disabled--"
+msgstr "--Отключено--"
+
+#: ../functions/panel/theme_options.php:438
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr "Вы можете выбрать несколько категорий, удерживая нажатой клавишу CTRL."
+
+#: ../functions/panel/theme_options.php:448
+msgid "Search Text Settings"
+msgstr "Настройки текстового поля поиска"
+
+#: ../functions/panel/theme_options.php:453
+msgid "Default Display Text in Search"
+msgstr "Текст по-умолчанию в поле поиска"
+
+#: ../functions/panel/theme_options.php:458
+msgid "Search Button's text"
+msgstr "Текст кнопки поиска"
+
+#: ../functions/panel/theme_options.php:469
+msgid "Excerpt / More Tag Settings"
+msgstr "Настройки Выдержек / Тега \"Далее\""
+
+#: ../functions/panel/theme_options.php:474
+msgid "More Tag Text"
+msgstr "Текст тега \"Далее\""
+
+#: ../functions/panel/theme_options.php:479
+msgid "Excerpt length(words)"
+msgstr "Длина выдержки (кол-во слов)"
+
+#: ../functions/panel/theme_options.php:489
+msgid "Feed Redirect"
+msgstr "Переадресация канала новостей"
+
+#: ../functions/panel/theme_options.php:494
+msgid "Feed Redirect URL"
+msgstr "URL для переадресации канала новостей"
+
+#: ../functions/panel/theme_options.php:507
+msgid "Add Slider Options"
+msgstr "Добавить слайдер"
+
+#: ../functions/panel/theme_options.php:511
+msgid "Exclude Slider post from Home page posts:"
+msgstr "Отключить слайдер на Домашней странице:"
+
+#: ../functions/panel/theme_options.php:516
+msgid "Number of Slides"
+msgstr "Кол-во слайдов"
+
+#: ../functions/panel/theme_options.php:522
+msgid "Featured Slider Post #"
+msgstr "Сообщение для слайда #"
+
+#: ../functions/panel/theme_options.php:524
+msgid "Click Here To Edit"
+msgstr "Нажмите для редактирования"
+
+#: ../functions/panel/theme_options.php:530
+msgid "Note: Here You can put your Post IDs which displays on Homepage as slider."
+msgstr "Примечание: Здесь Вы можете добавить ID своих сообщений, которые будут выводиться на Домашнюю страницу в виде слайдера."
+
+#: ../functions/panel/theme_options.php:537
+msgid "Slider Effect Options"
+msgstr "Настройки эффектов слайдера"
+
+#: ../functions/panel/theme_options.php:541
+msgid "Disable Slider Background Effect:"
+msgstr "Отключить фоновый эффект слайдера:"
+
+#: ../functions/panel/theme_options.php:548
+msgid "Transition Effect:"
+msgstr "Эффект перехода:"
+
+#: ../functions/panel/theme_options.php:552
+msgid "fade"
+msgstr "затемнение"
+
+#: ../functions/panel/theme_options.php:553
+msgid "wipe"
+msgstr "стирание"
+
+#: ../functions/panel/theme_options.php:554
+msgid "scrollUp"
+msgstr "прокрутить вверх"
+
+#: ../functions/panel/theme_options.php:555
+msgid "scrollDown"
+msgstr "прокрутить вниз"
+
+#: ../functions/panel/theme_options.php:556
+msgid "scrollLeft"
+msgstr "прокрутить влево"
+
+#: ../functions/panel/theme_options.php:557
+msgid "scrollRight"
+msgstr "прокрутить вправо"
+
+#: ../functions/panel/theme_options.php:558
+msgid "blindX"
+msgstr "затемнить по Х"
+
+#: ../functions/panel/theme_options.php:559
+msgid "blindY"
+msgstr "затемнить по Y"
+
+#: ../functions/panel/theme_options.php:560
+msgid "blindZ"
+msgstr "затемнить по Z"
+
+#: ../functions/panel/theme_options.php:561
+msgid "cover"
+msgstr "накрывание"
+
+#: ../functions/panel/theme_options.php:562
+msgid "shuffle"
+msgstr "перемешивание"
+
+#: ../functions/panel/theme_options.php:567
+msgid "Transition Delay"
+msgstr "Задержка перед переходом"
+
+#: ../functions/panel/theme_options.php:570
+#: ../functions/panel/theme_options.php:577
+msgid "second(s)"
+msgstr "сек."
+
+#: ../functions/panel/theme_options.php:574
+msgid "Transition Length"
+msgstr "Длительность эффекта перехода"
+
+#: ../functions/panel/theme_options.php:602
+msgid "Google+"
+msgstr "Google+"
+
+#: ../functions/panel/theme_options.php:607
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../functions/panel/theme_options.php:612
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../functions/panel/theme_options.php:617
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../functions/panel/theme_options.php:623
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: ../functions/panel/theme_options.php:628
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: ../functions/panel/theme_options.php:633
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: ../functions/panel/theme_options.php:638
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../functions/panel/theme_options.php:643
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../functions/panel/theme_options.php:648
+msgid "deviantART"
+msgstr "deviantART"
+
+#: ../functions/panel/theme_options.php:653
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../functions/panel/theme_options.php:658
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../functions/panel/theme_options.php:668
+msgid "RSS"
+msgstr "RSS"
+
+#: ../functions/panel/theme_options.php:673
+msgid "Delicious"
+msgstr "Delicious"
+
+#: ../functions/panel/theme_options.php:678
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: ../functions/panel/theme_options.php:689
+msgid "Site Verification"
+msgstr "Проверка cайта"
+
+#: ../functions/panel/theme_options.php:694
+msgid "Google Site Verification ID"
+msgstr "Gogle ID для проверки сайта"
+
+#: ../functions/panel/theme_options.php:695
+msgid "Enter your Google ID number only"
+msgstr "Введите ваш Google ID (только номер)"
+
+#: ../functions/panel/theme_options.php:700
+msgid "Yahoo Site Verification ID"
+msgstr "Yahoo ID для проверки сайта"
+
+#: ../functions/panel/theme_options.php:701
+msgid "Enter your Yahoo ID number only"
+msgstr "Введите ваш Yahoo ID (только номер)"
+
+#: ../functions/panel/theme_options.php:706
+msgid "Bing Site Verification ID"
+msgstr "Bing ID для проверки сайта"
+
+#: ../functions/panel/theme_options.php:707
+msgid "Enter your Bing ID number only"
+msgstr "Введите ваш Bing ID (только номер)"
+
+#: ../functions/panel/theme_options.php:717
+msgid "Analytics/ Header / Footer Codes"
+msgstr ""
+
+#: ../functions/panel/theme_options.php:722
+msgid "Code to display on Header"
+msgstr "Код для отображения в шапке сайта"
+
+#: ../functions/panel/theme_options.php:728
+msgid "Note: Here you can put scripts from Google, Facebook etc. which will load on Header"
+msgstr "Примечание: Здесь вы можете добавить скрипты от Google, Facebook и т.п., которые будут загружаться в шапке сайта"
+
+#: ../functions/panel/theme_options.php:731
+msgid "Code to display on Footer"
+msgstr "Код для отображения в нижнем колонтитуле"
+
+#: ../functions/panel/theme_options.php:738
+msgid "Note: Here you can put scripts from Google, Facebook, Add This etc. which will load on footer"
+msgstr "Примечание: Здесь вы можете добавить скрипты от Google, Facebook, Add This и т.п., которые будут загружаться в нижнем колонтитуле"
+
+#~ msgid "Slider Options"
+#~ msgstr "Настройки слайдера"
+
+#~ msgid "Disable Header Logo:"
+#~ msgstr "Отключить логотип в шапке:"
+
+#~ msgid "Featured Slider Options"
+#~ msgstr "Настройки слайдера"
+
+#~ msgid "Social Links Option"
+#~ msgstr "Настройки ссылок на Социальные Сети"
+
+#~ msgid "Webmaster Tools Option"
+#~ msgstr "Настройки инструментов веб-мастера"
+
+#~ msgid "Analytics"
+#~ msgstr "Аналитика"
+
+#~ msgid ""
+#~ "Simple Catch is a Simple and Clean WordPress Theme by Catch Themes. Easy "
+#~ "Customizethrough Theme Options and Custom Widgets. Features: Custom Menu, "
+#~ "Custom Widgets, Three Custom Layouts, Featured Slider, Theme Options "
+#~ "(Header Logo, Footer Logo, Fav Icon, Social Icons, Custom CSS Styles, "
+#~ "Webmaster Tools)  and Support for popular plugins (Breadcrumb NavXT, "
+#~ "Contact Form 7, WP-PageNavi, WP Page Numbers). It is based on popular 978 "
+#~ "Grid System CSS Framework. Multilingual Ready (WPML) and also currently "
+#~ "translated in Polish, Russian and Finnish."
+#~ msgstr ""
+#~ "Simple Catch is a Simple and Clean WordPress Theme by Catch Themes. Easy "
+#~ "Customizethrough Theme Options and Custom Widgets. Features: Custom Menu, "
+#~ "Custom Widgets, Three Custom Layouts, Featured Slider, Theme Options "
+#~ "(Header Logo, Footer Logo, Fav Icon, Social Icons, Custom CSS Styles, "
+#~ "Webmaster Tools)  and Support for popular plugins (Breadcrumb NavXT, "
+#~ "Contact Form 7, WP-PageNavi, WP Page Numbers). It is based on popular 978 "
+#~ "Grid System CSS Framework. Multilingual Ready (WPML) and also currently "
+#~ "translated in Polish, Russian and Finnish."
+
+#~ msgid ""
+#~ "black, gray, silver, white, light, one-column, two-columns, left-sidebar, "
+#~ "right-sidebar, fixed-width, custom-menu, featured-images, full-width-"
+#~ "template, theme-options, threaded-comments, translation-ready"
+#~ msgstr ""
+#~ "black, gray, silver, white, light, one-column, two-columns, left-sidebar, "
+#~ "right-sidebar, fixed-width, custom-menu, featured-images, full-width-"
+#~ "template, theme-options, threaded-comments, translation-ready"
