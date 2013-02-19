@@ -17,7 +17,7 @@ body {
 	color:#555;
 }
 
-body .entry-meta, body .postformats, body #header, body .edit-link, body #footer-widgets-wrapper, body #credit{
+body .entry-meta, body .postformats, body #header, body .edit-link, body #footer-widgets-wrapper, body #credit, body .more-content, body #comments{
 	display: none;
 }
 
